@@ -13,8 +13,8 @@ Version Control: Git, GitHub
 Tools: VS Code,
 👨‍💻 What I’m Currently Working On:
 📫 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/sabari-g-827309250/)
-- [Email](sabarig021@gmail.com)
-- [Leetcode](https://leetcode.com/u/sabarig_007/)
-- [Resume](https://drive.google.com/file/d/1hmMV_mnf2ffqRGPbM3gUFlIl4e0EtONR/view?usp=drive_link)
+- [LinkedIn]https://www.linkedin.com/in/sabari-g-827309250/
+- [Email]sabarig021@gmail.com
+- [Leetcode]https://leetcode.com/u/sabarig_007/
+- [Resume]https://drive.google.com/file/d/1hmMV_mnf2ffqRGPbM3gUFlIl4e0EtONR/view?usp=drive_link
 
