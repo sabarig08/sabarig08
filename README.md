@@ -16,4 +16,4 @@ Tools: VS Code,
 - [LinkedIn]https://www.linkedin.com/in/sabari-g-827309250/
 - [Email]sabarig021@gmail.com
 - [Leetcode]https://leetcode.com/u/sabarig_007/
-- [Resume]https://drive.google.com/file/d/1f5Zaoos71QLn6WC4aK08QN2TMCBl7ibz/view?usp=drive_link
+- [Resume]https://drive.google.com/file/d/1hmMV_mnf2ffqRGPbM3gUFlIl4e0EtONR/view?usp=drive_link
