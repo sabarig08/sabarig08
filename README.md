@@ -12,10 +12,15 @@
 
 🛠 Skills
 Frontend: HTML, CSS, JavaScript, React, Bootstrap
+
 Backend: Node.js, Express
+
 Database: MongoDB, SQL
+
 Version Control: Git, GitHub
+
 Tools: VS Code,
+
 👨‍💻 What I’m Currently Working On:
 
 
